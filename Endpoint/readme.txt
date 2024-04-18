@@ -1,9 +1,9 @@
-First create a folder "endpoint"
+First create a directory "endpoint"
 
-In that folder paste these 4 files
+In that directory paste these 4 files
 
-create another folder hc22000
+Create another directory "hc22000" inside the endpoint directory
 
-Download "Hashcat" and extract it in the enpoint folder
+Download "Hashcat" and extract it in the enpoint directory
 
-And if you've downloaded any "Wordlists" like in this code we used indian-passwords.txt and rockyou.txt, then paste them inside the hashcat folder (The hashcat folder will look something like this: hashcat-6.2.6)
+And if you've downloaded any "Wordlists" like in this code we've used indian-passwords.txt and rockyou.txt, then paste them inside the hashcat directory (The hashcat directory will look something like this: hashcat-6.2.6)

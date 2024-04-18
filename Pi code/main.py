@@ -266,7 +266,6 @@ def start():
         captured = False
         skip = False
         ap_mac = net['bssid']
-        #station_mac = "xxx"
         channel = net['channel']
         ssid = net['ssid']
 

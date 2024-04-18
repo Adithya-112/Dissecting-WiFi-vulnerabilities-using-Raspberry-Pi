@@ -9,8 +9,11 @@ import socket
 from dhooks import Webhook
 from jsondiff import diff
 
+# Set IP Address and Port number of Endpoint
 HOST = '192.168.1.2'   # change this with your endpoint's IP Address
 PORT = 8080  #change this
+
+
 MON_IFACE = sys.argv[1] 
 networks = []
 

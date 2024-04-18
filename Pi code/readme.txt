@@ -1,7 +1,9 @@
 # Run this code inside Raspberry Pi
-Here for the raspyberry pi, I have installed the default Raspberry Pi OS in my Raspberry Pi.
+Here, I have installed the default Raspberry Pi OS in my Raspberry Pi.
 
 You will need a WiFi adapter which supports "Monitor Mode" or more specifically "Promiscuous Mode" in order to run this code.
+
+You can use 'weget' or 'git clone' to download this repository, and after downloading navigate to the Pi code folder.
 
 Then after give root permissions to the 'main.py' file ( $ sudo chown root main.py)
 
